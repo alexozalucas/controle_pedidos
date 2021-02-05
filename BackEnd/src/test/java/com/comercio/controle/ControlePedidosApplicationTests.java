@@ -1,4 +1,4 @@
-package com.comercio.controle_pedidos;
+package com.comercio.controle;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
